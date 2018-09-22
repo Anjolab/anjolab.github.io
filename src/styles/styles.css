@@ -1,0 +1,22 @@
+h1 {
+    color: blueviolet
+}
+
+p {
+    font-family: cursive
+}
+
+div {
+    background-color: aqua;
+    border: ipx dotted green;
+
+}
+
+body {
+    background-color: antiquewhite;
+    align-content: center;
+}
+
+.likesBox {
+    background-color: brown;
+}
